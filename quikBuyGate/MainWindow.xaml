@@ -69,7 +69,7 @@
             <Button x:Name="btnSaleOrderP8" Content="Ордер +8" HorizontalAlignment="Left" Margin="161,0,0,0" VerticalAlignment="Top" Width="85" Click="btnSaleOrder1_Click" />
         </Grid>
         <Label x:Name="lbProfit" Content="1USDT" HorizontalAlignment="Left" Margin="208,236,0,0" VerticalAlignment="Top" FontSize="36" Grid.ColumnSpan="4" Width="254"/>
-        <Label Content="Профит" HorizontalAlignment="Left" Margin="83,251,0,0" VerticalAlignment="Top" Height="26" Width="47"/>
+        <Label Content="Профит" HorizontalAlignment="Left" Margin="83,251,0,0" VerticalAlignment="Top" Height="52" Width="91" FontSize="20"/>
 
 
 
